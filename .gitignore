@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+FutureWorld.csproj
+FutureWorld.Editor.csproj
+FutureWorld.sln
+*.csproj
+Library/*
